@@ -118,6 +118,7 @@ img {
   display: flex;
   flex-direction: row-reverse;
   align-items: center;
+  fill: #afb1b8;
 }
 .envelopment {
   margin-right: 10px;
@@ -130,7 +131,7 @@ img {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(/images/img.png);
+    url(../images/hero/hero.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -294,6 +295,7 @@ img {
   width: 44px;
   height: 44px;
   border-radius: 50%;
+  fill: #afb1b8;
 }
 .social-icon-link:hover,
 .social-icon-link:focus {
@@ -330,6 +332,7 @@ img {
   box-sizing: border-box;
   border-radius: 4px;
   margin-top: 50px;
+  fill: #afb1b8;
 }
 .customer-logo-link:hover,
 .customer-logo-link:focus {
